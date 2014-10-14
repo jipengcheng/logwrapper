@@ -1,7 +1,7 @@
 <?php
-namespace logwrapper;
+namespace Logwrapper;
 
-class logwrapper {
+class Logwrapper {
 
   private $log = null;
 
