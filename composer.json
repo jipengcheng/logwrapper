@@ -1,0 +1,6 @@
+{
+    "name": "jipengcheng/logwrapper",
+    "require": {
+      "monolog/monolog":"1.0.*"
+    }
+}
