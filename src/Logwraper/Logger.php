@@ -1,5 +1,5 @@
 <?php
-namespace Logwrapper;
+namespace Logwraper;
 
 class Logger {
 
