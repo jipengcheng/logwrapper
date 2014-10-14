@@ -6,7 +6,7 @@ class Logger {
   private $log = null;
 
   public function __construct($file){
-    $log = new Monolog\Logger('name');
+    $log = new \Monolog\Logger('name');
     $log->pushHandler(new Monolog\Handler\StreamHandler($file, Monolog\Logger::WARNING));
   }
 
