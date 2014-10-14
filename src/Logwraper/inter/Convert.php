@@ -1,5 +1,5 @@
 <?php
-namespace LogWraper/inter;
+namespace LogWraper\inter;
 
 class Convert
 {
