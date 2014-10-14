@@ -1,8 +1,6 @@
 <?php
 namespace logwrapper;
 
-require 'vendor/autoload.php';
-
 class logwrapper {
 
   private $log = null;
